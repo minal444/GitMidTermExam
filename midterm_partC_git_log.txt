@@ -1,0 +1,29 @@
+commit 2679653362b08d3115ccfbba6cf92ac313e69171
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 18:42:20 2016 -0400
+
+    test for Vue.compile
+
+commit e275b75af8bb5eb9c409beca5fa65c7b037fa176
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 18:39:52 2016 -0400
+
+    test/fix global filter registration
+
+commit 9ff87a357eba00e40d44a2d5a25f6ac44fca70b9
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 16:09:12 2016 -0400
+
+    support filters inside text interpolations
+
+commit f9613c5aced93479d4ac999c16bb01d981a8c797
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 16:05:19 2016 -0400
+
+    ignore dist files in babel
+
+commit b66be950f54cf3294f23db34e9e0a3ba09ce9ada
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 14:29:36 2016 -0400
+
+    support inline-template
